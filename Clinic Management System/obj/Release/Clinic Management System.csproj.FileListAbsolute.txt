@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\logo.ico
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe.config
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.exe
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\Clinic Management System.pdb
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\EntityFramework.dll
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\Guna.UI2.dll
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\EntityFramework.xml
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\bin\Release\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic_Management_System.FrmSplash.resources
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic M.C6172C23.Up2Date
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic Management System.exe
+C:\Users\Administrator\source\repos\Clinic Management System\Clinic Management System\obj\Release\Clinic Management System.pdb
